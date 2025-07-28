@@ -1,4 +1,4 @@
-# Hi there, I'm Zaibbee69 👋
+# Hi there, I'm Zaibbee 👋
 
 Welcome to my GitHub profile!
 
