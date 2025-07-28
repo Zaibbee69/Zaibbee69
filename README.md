@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Zaibbee69 👋
 
-<!--
-**Zaibbee69/Zaibbee69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate developer who loves building web applications and exploring new technologies. I specialize in both backend and frontend development, with a focus on clean, scalable, and efficient solutions.
+
+## 🛠️ Skills
+
+- **Languages & Frameworks:**  
+  Python, JavaScript, Django, Django REST Framework (DRF), Flask, Jinja2, React.js
+- **Styling:**  
+  Sass, Bootstrap
+- **Version Control:**  
+  GitHub
+
+## 🌱 Currently Learning
+
+Always seeking to expand my skills and stay up-to-date with the latest trends in tech.
+
+## 📫 How to reach me
+
+Feel free to connect, collaborate, or just say hi!
+
+## ⚡ Fun Fact
+
+I love solving challenging problems and turning ideas into reality.
+
+---
+
+Thanks for stopping by! ✨
